@@ -1,4 +1,4 @@
-# Export a server on NCloud to Azure
+# Export NCloud server to Azure VM
 Microsoft Azure는 온프레미스 또는 타 클라우드에서 생성된 VHD(Virtual Hard Disk)를 import 한 후,  Azure 가상머신 이미지와 가상머신을 생성할 수 있습니다. 이 리포지토리에서 다루는 내용은 다음과 같습니다.
 
 - VHD export 기능을 제공하지 않는 온프레미스 또는 클라우드 환경에서 VHD를 export 하는 방법
