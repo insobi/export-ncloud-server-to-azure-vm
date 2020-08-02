@@ -21,6 +21,6 @@ Hands-on-lab에서는 VHD를 export할 소스 환경으로 NCloud(Naver Business
 3. [Hands-on-lab: Create Image & VM](https://github.com/insobi/export-ncloud-server-to-azure-vm/blob/master/Hands-on-lab/2.HOL_Creating_Image_VM.md)
 
 ## Related references
-- [Veeam Agent for Linux](https://www.veeam.com/linux-cloud-server-backup-agent.html)
+- [Veeam Agent for Linux](https://helpcenter.veeam.com/docs/agentforlinux/userguide/quickstart.html)
 - [Prepare an Ubuntu virtual machine for Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu)
 - [Prepare a Windows VHD or VHDX to upload to Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image)
